@@ -1,0 +1,42 @@
+# Diretório de binários
+/bin/
+/build/
+
+# Arquivos gerados pelo VSCode
+.vscode/
+.settings/
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivos do Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Arquivos do Gradle
+.gradle/
+build/
+
+# Gradle Wrapper
+!gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+
+# Arquivos de cache do IntelliJ IDEA
+*.iml
+.idea/
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de dependências
+*.jar
+*.war
+*.ear
+
+# Arquivos de teste
